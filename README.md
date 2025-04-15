@@ -109,7 +109,3 @@ You can extend this project in several ways:
 - Create a higher-level API for building common HTML structures
 - Implement a markdown-to-HTML converter using this framework
 - Build a complete static site generator
-
-## License
-
-[Insert your license information here]
